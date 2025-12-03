@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=2F81F7&center=true&vCenter=true&width=520&lines=Hi+I'm+Akash+Bondada+👋;Apigee+Developer+%26+API+Security+Engineer;Integration+Specialist+%283%2B+Years%29;Building+Secure+and+Scalable+API+Ecosystems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=2F81F7&center=true&vCenter=true&width=520&lines=Hi+I'm+Akash+Bondada+👋;Apigee+Developer+%26+API+Security+Engineer;Integration+Specialist;Building+Secure+and+Scalable+API+Ecosystems" />
 </h1>
 
 <p align="center">
