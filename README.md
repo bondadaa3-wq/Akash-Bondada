@@ -21,8 +21,9 @@
 
 ---
 
-# 👨‍💻 About Me  
-I’m **Akash Bondada**, an API Developer with **3.3+ years** of experience working on API Management, API Security, and Integration Engineering.
+# 👨‍💻 About Me
+I’m **Akash Bondada**, an API Developer with hands-on work in API Management, API Security, and Integration Engineering.
+
 
 I specialize in:
 
