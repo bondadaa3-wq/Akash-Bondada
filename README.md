@@ -12,11 +12,11 @@
 
 ## 📬 Connect With Me  
 <p align="left">
-  <a href="mailto:bondadaa3@gmail.com"><img src="https://img.shields.io/badge/Email-bondadaa3%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:akashbondada4@gmail.com"><img src="https://img.shields.io/badge/Email-akashbondada%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
-📞 **Phone:** 7349655978  
+📞 **Phone:** 7075816998  
 📍 **Location:** Bangalore, India  
 
 ---
