@@ -15,8 +15,7 @@
   <a href="mailto:akashbondada4@gmail.com"><img src="https://img.shields.io/badge/Email-akashbondada4%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
-
-📞 **Phone:** 7075816998  
+ 
 📍 **Location:** Bangalore, India  
 
 ---
